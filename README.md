@@ -1,0 +1,2 @@
+# rails
+auto installer rails 
